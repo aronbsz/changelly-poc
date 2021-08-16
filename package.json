@@ -1,0 +1,16 @@
+{
+  "name": "changelly-poc",
+  "version": "1.0.0",
+  "description": "Proof of concept script demonstrating exchanging assets through Changelly.",
+  "main": "app.js",
+  "dependencies": {
+    "jayson": "^2.0.1",
+    "socket.io-client": "^1.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aron Barcsa-Szabo",
+  "license": "ISC"
+}
